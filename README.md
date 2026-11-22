@@ -1,6 +1,8 @@
 # The World in One Day — Sunday 22 November 2026: 35 stories, 7 regions — COP31 nears a deal, tankers hit in Hormuz, Russian ship ablaze in the Baltic
 
-![make.fun](https://make.fun/badge/news-image-20261122/tapetelo/news-image-20261122-v2/rank.svg)
+[![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![rank](https://make.fun/badge/news-image-20261122/tapetelo/news-image-20261122-v2/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/tapetelo/news-image-20261122-v2/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 One 1024×1024 front page for **Sunday 22 November 2026**: 35 wire-checked stories across 7 regions, drawn only from events that happened or were first reported that day.
 
